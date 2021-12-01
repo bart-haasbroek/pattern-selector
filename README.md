@@ -1,5 +1,8 @@
 # patterns
 
+A simple app for how patters looks like when used as background on a webpage. The app looks for images into the local assets folder and displays a list of images which you can select as background.
+The app can be found at: https://mypatterns.ga/
+
 ## Build Setup
 
 ```bash
